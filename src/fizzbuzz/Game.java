@@ -2,7 +2,9 @@ package fizzbuzz;
 
 public class Game {
 
-	public String next() {
-		return "1";
-	}
+	private int round = 1;
+
+    public String next() {
+        return String.valueOf(round++);
+    }
 }
