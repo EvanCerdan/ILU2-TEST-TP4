@@ -16,7 +16,7 @@
 
 - [x] Le premier doit répondre "1"
 - [x] Le deuxième doit répondre "2"
-- [] Le troisième doit répondre "Fizz"
+- [x] Le troisième doit répondre "Fizz"
 - [] Le quatrième doit répondre "4"
 - [] Le cinquième doit répondre "Buzz"
 - [] Le 7e, 8e, 11e doivent répondre “7” “8” “11”
